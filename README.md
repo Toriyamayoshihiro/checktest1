@@ -1,7 +1,7 @@
 # お問い合わせフォーム
 ##環境構築
 dockerビルド
- 1.
+ 1.git@github.com:Toriyamayoshihiro/checktest1.git
  2.docker-compose up -d -build
  *MySQLは、OSによって起動しない場合があるのでそれぞれのＰＣに合わせてdocker-compose.ymlファイルを編集してください。
  Laravel環境構築
